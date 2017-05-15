@@ -1,24 +1,9 @@
-# README
+# Kodemari
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+施設・設備・備品予約システム
 
-Things you may want to cover:
+## 推奨される稼働環境
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* macOS または Linux
+* Ruby 2.4
+* PostgreSQL 9.6
