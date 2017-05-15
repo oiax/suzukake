@@ -7,3 +7,7 @@
 * macOS または Linux
 * Ruby 2.4
 * PostgreSQL 9.6
+
+## ライセンス
+
+Kodemari は [MIT-LICENSE](MIT-LICENSE) のもとで公開されています。
