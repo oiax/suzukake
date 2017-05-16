@@ -10,7 +10,7 @@ require "action_view/railtie"
 require "sprockets/railtie"
 Bundler.require(*Rails.groups)
 
-module Kodemari
+module Suzukake
   class Application < Rails::Application
     config.load_defaults 5.1
     config.time_zone = "Tokyo"

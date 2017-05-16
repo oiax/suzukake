@@ -1,4 +1,4 @@
-# Kodemari
+# Suzukake
 
 施設・設備・備品予約システム
 
@@ -10,4 +10,4 @@
 
 ## ライセンス
 
-Kodemari は [MIT-LICENSE](MIT-LICENSE) のもとで公開されています。
+Suzukake は [MIT-LICENSE](MIT-LICENSE) のもとで公開されています。
